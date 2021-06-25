@@ -150,8 +150,8 @@ const projects = [
     projectDescription:
       "Designed & Built the Portfolio using HTML CSS and Vanilla JavaScript to show case the Professional Journey.",
     projectImage: "images/portfolioWebsite.jpg",
-    codeLink: "https://portfolio-omkarghate.vercel.app/",
-    demoLink: "https://portfolio-omkarghate.vercel.app/"
+    codeLink: "https://omkarghate-portfolio.netlify.app/",
+    demoLink: "https://omkarghate-portfolio.netlify.app/"
   },
 
   {
