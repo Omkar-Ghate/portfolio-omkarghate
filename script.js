@@ -264,12 +264,12 @@ const projects = [
     demoLink: "https://replit.com/@OmkarGhate/cli-quiz-neog?embed=1output=1#index.js"
   },
   {
-    projectName: "Impossible Button",
+    projectName: "CLI Quiz App",
     projectDescription:
-      "Designed & Built Impossible Button Game using HTML and JavaScript.",
-    projectImage: "images/impossible button.jpg",
-    codeLink: "https://github.com/Omkar-Ghate/impossible-button",
-    demoLink: "http://impossible-button.vercel.app/"
+      "A Command Line Interface(CLI) app built using NodeJS, Javascript, and Chalk Library to check how well you know me!",
+    projectImage: "images/cliApp.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/cli-quiz",
+    demoLink: "https://replit.com/@OmkarGhate/sample?embed=1&output=1#index.js"
   },
   
 
