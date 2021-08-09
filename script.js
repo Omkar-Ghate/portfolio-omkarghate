@@ -145,12 +145,12 @@ class Project {
 
 const projects = [
   {
-    projectName: "German Accent Translator",
+    projectName: "Fun With Triangles",
     projectDescription:
-      "Built using HTML5, CSS3, and Javascript, this app helps you sound more authentically German.",
-    projectImage: "./images/germanAccent.jpg",
-    codeLink: "https://github.com/Omkar-Ghate/german-translator-neog",
-    demoLink: "https://german-accent-translator.netlify.app/"
+      "Built using HTML5, CSS3, JavaScript and ReactJS, this is a fun app to learn about triangles and it's interesting properties through quiz and exercises.",
+    projectImage: "./images/funWithTriangles.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/fun-with-triangles",
+    demoLink: "https://xicxx.csb.app/"
   },
   {
     projectName: "Is your Birthday Lucky?",
