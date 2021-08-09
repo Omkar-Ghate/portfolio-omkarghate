@@ -164,7 +164,7 @@ const projects = [
     projectName: "Cash Register Manager",
     projectDescription:
       "This is an application to know how many notes of currency 1,5,10,20,100,500,2000 to return to the customer by taking bill amount and cash given. Built using HTML5, CSS3, and JavaScript.",
-    projectImage: "images/emoji.jpg",
+    projectImage: "images/cashRegister.jpg",
     codeLink: "https://github.com/Omkar-Ghate/cash-register-manager",
     demoLink: "https://cashregister-omkarghate.netlify.app/"
   },
