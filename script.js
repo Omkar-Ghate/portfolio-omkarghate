@@ -153,12 +153,12 @@ const projects = [
     demoLink: "https://german-accent-translator.netlify.app/"
   },
   {
-    projectName: "Emoji Interpretor",
+    projectName: "Book Recommendation App",
     projectDescription:
-      "Built using HTML, CSS, JavaScript and ReactJS, this app tells you the name of your emoji!",
-    projectImage: "images/emoji.jpg",
-    codeLink: "https://github.com/Omkar-Ghate/emoji-interpretor-neog",
-    demoLink: "https://whats-your-emoji.netlify.app/"
+      "Built using HTML5, CSS3, JavaScript and ReactJS, this is a book recommendation app covering books from various genres.",
+    projectImage: "images/bookApp.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/my-book-recommendation-app",
+    demoLink: "https://1v93o.csb.app/"
   },
   {
     projectName: "Emoji Interpretor",
