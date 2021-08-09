@@ -153,6 +153,22 @@ const projects = [
     demoLink: "https://german-accent-translator.netlify.app/"
   },
   {
+    projectName: "Is your Birthday Lucky?",
+    projectDescription:
+      "Built using HTML5, CSS3, JavaScript and ReactJS, this fun app checks if sum of the digits of your birthday is divisible by the lucky number.",
+    projectImage: "./images/luckyBirthday.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/is-your-birthday-lucky",
+    demoLink: "https://4qmvh.csb.app/"
+  },
+  {
+    projectName: "German Accent Translator",
+    projectDescription:
+      "Built using HTML5, CSS3, and Javascript, this app helps you sound more authentically German.",
+    projectImage: "./images/germanAccent.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/german-translator-neog",
+    demoLink: "https://german-accent-translator.netlify.app/"
+  },
+  {
     projectName: "Book Recommendation App",
     projectDescription:
       "Built using HTML5, CSS3, JavaScript and ReactJS, this is a book recommendation app covering books from various genres.",
