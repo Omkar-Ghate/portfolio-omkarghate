@@ -144,7 +144,30 @@ class Project {
 }
 
 const projects = [
-
+  {
+    projectName: "German Accent Translator",
+    projectDescription:
+      "Built using HTML5, CSS3, and Javascript, this app helps you sound more authentically German.",
+    projectImage: "./images/germanAccent.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/german-translator-neog",
+    demoLink: "https://german-accent-translator.netlify.app/"
+  },
+  {
+    projectName: "Emoji Interpretor",
+    projectDescription:
+      "Built using HTML, CSS, JavaScript and ReactJS, this app tells you the name of your emoji!",
+    projectImage: "images/emoji.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/emoji-interpretor-neog",
+    demoLink: "https://whats-your-emoji.netlify.app/"
+  },
+  {
+    projectName: "Emoji Interpretor",
+    projectDescription:
+      "Built using HTML, CSS, JavaScript and ReactJS, this app tells you the name of your emoji!",
+    projectImage: "images/emoji.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/emoji-interpretor-neog",
+    demoLink: "https://whats-your-emoji.netlify.app/"
+  },
   {
     projectName: "Portfolio with Theme Changer",
     projectDescription:
