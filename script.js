@@ -161,12 +161,12 @@ const projects = [
     demoLink: "https://1v93o.csb.app/"
   },
   {
-    projectName: "Emoji Interpretor",
+    projectName: "Cash Register Manager",
     projectDescription:
-      "Built using HTML, CSS, JavaScript and ReactJS, this app tells you the name of your emoji!",
+      "This is an application to know how many notes of currency 1,5,10,20,100,500,2000 to return to the customer by taking bill amount and cash given. Built using HTML5, CSS3, and JavaScript.",
     projectImage: "images/emoji.jpg",
-    codeLink: "https://github.com/Omkar-Ghate/emoji-interpretor-neog",
-    demoLink: "https://whats-your-emoji.netlify.app/"
+    codeLink: "https://github.com/Omkar-Ghate/cash-register-manager",
+    demoLink: "https://cashregister-omkarghate.netlify.app/"
   },
   {
     projectName: "Portfolio with Theme Changer",
