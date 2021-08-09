@@ -255,6 +255,22 @@ const projects = [
     codeLink: "https://github.com/Omkar-Ghate/impossible-button",
     demoLink: "http://impossible-button.vercel.app/"
   },
+  {
+    projectName: "CLI GK Quiz",
+    projectDescription:
+      "A Command Line Interface(CLI) app built using NodeJS, Javascript, and Chalk Library to check your General Knowledge.",
+    projectImage: "images/cliQuiz.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/cli-quiz-assignment",
+    demoLink: "https://replit.com/@OmkarGhate/cli-quiz-neog?embed=1output=1#index.js"
+  },
+  {
+    projectName: "Impossible Button",
+    projectDescription:
+      "Designed & Built Impossible Button Game using HTML and JavaScript.",
+    projectImage: "images/impossible button.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/impossible-button",
+    demoLink: "http://impossible-button.vercel.app/"
+  },
   
 
 ];
