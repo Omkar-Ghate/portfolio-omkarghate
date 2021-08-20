@@ -145,6 +145,14 @@ class Project {
 
 const projects = [
   {
+    projectName: "Stock Profit and Loss Calculator",
+    projectDescription:
+      "This app shows how much profit or loss we are having on our stocks. If user has gained more than 50%, it makes the theme of app happy(blue) and if user has lost more than 50%, it makes the theme of app sad(red).",
+    projectImage: "./images/stockProfitLoss.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/stock-profit-or-loss",
+    demoLink: "https://cbh6i.csb.app/"
+  },
+  {
     projectName: "Birthday Palindrome",
     projectDescription:
       "This is a fun app to check if the birthdate is a palindrome or not. Built using HTML5, CSS3, JavaScript, and ReactJS.",
@@ -163,7 +171,7 @@ const projects = [
   {
     projectName: "Is your Birthday Lucky?",
     projectDescription:
-      "Built using HTML5, CSS3, JavaScript and ReactJS, this fun app checks if sum of the digits of your birthday is divisible by the lucky number.",
+      "This fun app checks if sum of the digits of your birthday is divisible by the lucky number. Built using HTML, CSS, JS, and ReactJS",
     projectImage: "./images/luckyBirthday.jpg",
     codeLink: "https://github.com/Omkar-Ghate/is-your-birthday-lucky",
     demoLink: "https://4qmvh.csb.app/"
