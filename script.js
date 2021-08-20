@@ -145,6 +145,14 @@ class Project {
 
 const projects = [
   {
+    projectName: "Birthday Palindrome",
+    projectDescription:
+      "This is a fun app to check if the birthdate is a palindrome or not. Built using HTML5, CSS3, JavaScript, and ReactJS.",
+    projectImage: "images/switch.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/birthday-palindrome",
+    demoLink: "https://qbnne.csb.app/"
+  },
+  {
     projectName: "Fun With Triangles",
     projectDescription:
       "Built using HTML5, CSS3, JavaScript and ReactJS, this is a fun app to learn about triangles and it's interesting properties through quiz and exercises.",
@@ -238,15 +246,6 @@ const projects = [
     demoLink: "https://create-your-todo.netlify.app/"
   },
 
-  {
-    projectName: "Simple Calculator",
-    projectDescription:
-      "Designed & Built a simple calculator to perform daily operations.",
-    projectImage: "images/switch.jpg",
-    codeLink: "https://github.com/Omkar-Ghate/Simple-Calculator",
-    demoLink: "https://boring-yet-simple-calculator.netlify.app/"
-  },
-  
   {
     projectName: "Impossible Button",
     projectDescription:
