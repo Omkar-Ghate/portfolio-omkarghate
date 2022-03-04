@@ -133,6 +133,22 @@ class Project {
 
 const projects = [
   {
+    projectName: "mUsIk: Component Library",
+    projectDescription:
+      "mUsIk is an open source styling framework, which helps Developers to use best styles and components, by using pre-defined classnames. It helps you to quickly build your Dream Project, by focusing more on Functionality, because we take care of your Designs.",
+    projectImage: "./images/musik-cl.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/musik",
+    demoLink: "https://musik-cl.netlify.app/"
+  },
+  {
+    projectName: "Taxi Management System",
+    projectDescription:
+      "Includes trip booking,fare-calculation, bill-generation, user & driver registration. Supports CRUD:Create, Read, Update & Delete operations on user,driver & taxi-owner. Tech-stack:JavaScript, NodeJS, MySQLDatabaseServer, HTML5,CSS3, BootStrap",
+    projectImage: "./images/TMS.jpg",
+    codeLink: "https://github.com/Omkar-Ghate/Taxi-Management-System",
+    demoLink: "https://github.com/Omkar-Ghate/Taxi-Management-System"
+  },
+  {
     projectName: "Stock Profit and Loss Calculator",
     projectDescription:
       "This app shows how much profit or loss we are having on our stocks. If user has gained more than 50%, it makes the theme of app happy(blue) and if user has lost more than 50%, it makes the theme of app sad(red).",
